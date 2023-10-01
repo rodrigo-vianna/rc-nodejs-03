@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": true
+	},
+	"files.eol": "\n",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": false,
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false
+}
